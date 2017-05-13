@@ -1,0 +1,52 @@
+---
+layout: default_bootstrap
+---
+
+<div class="home">
+<div class="panel panel-default text-center">
+  <div class="panel-heading">
+  <h1 class="page-heading">Posts</h1>
+  
+  {{ content }}
+</div>
+
+  <div class="panel-body">
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span style="font-size: 18px;">
+          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </span>&bull;
+ <span  class="post-meta">{{ post.date | date: date_format }}</span>
+<hr>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+
+<nav aria-label="Page navigation">
+{% if paginator.total_pages > 1 %}
+  <ul class="pagination">
+{% if paginator.previous_page %}
+    <li class="page-item">
+      <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" tabindex="-1">&laquo; Previous</a>
+    </li>
+{% else %}
+<li class="page-item disabled">
+      <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" tabindex="-1">&laquo; Previous</a>
+    </li>
+{% endif %}
+
+   {% if paginator.next_page %}
+    <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+  {% else %}
+    <li class="page-item disabled"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+  {% endif %}
+  </ul>
+{% endif %}
+</nav>  
+</div>
+</div>
