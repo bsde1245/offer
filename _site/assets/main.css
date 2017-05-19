@@ -472,9 +472,6 @@ pre {
 
 /* path to glyphicons */
 /* any style customization must be before the bootstrap import */
-* {
-  word-break: break-all !important; }
-
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
