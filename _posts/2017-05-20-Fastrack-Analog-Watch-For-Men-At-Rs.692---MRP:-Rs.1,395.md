@@ -7,10 +7,6 @@ categories: flipkart
 
 <h3>BEST LOOT DEALS OF THE DAY :</h3>
 
-
-
-
-
 **Fastrack NG3120SL01C Bare Basic Analog Watch – For Men**
 
 ![Fastrack NG3120SL01C Bare Basic Analog Watch](https://rukminim1.flixcart.com/image/832/832/watch/m/u/f/3120sl01-fastrack-original-imaeymyukdgzxqxf.jpeg?q=70)
