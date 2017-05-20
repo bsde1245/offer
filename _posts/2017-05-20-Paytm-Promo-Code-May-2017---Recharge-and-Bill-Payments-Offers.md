@@ -5,6 +5,10 @@ date:   2017-05-20 13:10:46 +0530
 categories: paytm
 ---
 
+<h3>Get 50% Cashback on Booking Movie Tickets (Max 150)</h3>
+
+Paytm has come up with Booking Movie Tickets Offer where you will get the 50% Cashback upto a Maximum of Rs 150 on purchase of 2 Movie Tickets and No Minimum Purchase required. Apply Coupon:- GBON50 or MOVIE50
+
 <h3>Get 100% Cashback on your First Bus Booking (Max cb Rs 200)</h3>
 
 Paytm has come up with awesome deal on Bus Ticket Booking where they are offering Flat 100% Cashback on Bus Ticket Booking for First time Bus Ticket booking usinf code FREEBUS. No minimum Bus Ticket booking. Maximum cashback is Rs 200. So Hurry up !!
