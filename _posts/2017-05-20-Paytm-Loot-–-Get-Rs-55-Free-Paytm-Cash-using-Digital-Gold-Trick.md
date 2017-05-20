@@ -2,7 +2,7 @@
 layout: post
 title:  "Paytm Loot – Get Rs 55 Free Paytm Cash using Digital Gold Trick"
 date:   2017-05-20 13:37:46 +0530
-categories: bigbazaar
+categories: paytm
 ---
 
 <h3>How to Get Rs 55 Paytm Cash on Purchase of Digital Gold:-</h3>

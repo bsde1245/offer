@@ -2,7 +2,7 @@
 layout: post
 title:  "Paytm Promo Code May 2017 - Recharge & Bill Payments Offers"
 date:   2017-05-20 13:10:46 +0530
-categories: bigbazaar
+categories: paytm
 ---
 
 <h3>Get 100% Cashback on your First Bus Booking (Max cb Rs 200)</h3>
