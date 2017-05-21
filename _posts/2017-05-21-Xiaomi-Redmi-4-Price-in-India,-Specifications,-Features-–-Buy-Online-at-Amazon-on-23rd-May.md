@@ -7,21 +7,21 @@ categories: xiaomi
 
 <h4>How to Buy Xiaomi Redmi 4 Online From Flipkart, Amazon</h4>
 
-1. First of all,  [Visit Amazon Sale Page Here](https://www.amazon.in/redmi-4/b?ie=UTF8&amp;node=13713623031&_encoding=UTF8&tag=210c89-21&linkCode=ur2&linkId=d3fd3238ac958c460cce142864817282&camp=3638&creative=24630)
+1) First of all,  [Visit Amazon Sale Page Here](https://www.amazon.in/redmi-4/b?ie=UTF8&amp;node=13713623031&_encoding=UTF8&tag=210c89-21&linkCode=ur2&linkId=d3fd3238ac958c460cce142864817282&camp=3638&creative=24630)
 
-2. Now visit the product page and Click on Buy Now button.
+2) Now visit the product page and Click on Buy Now button.
 
-3. Review your cart and then click on Place Order.
+3) Review your cart and then click on Place Order.
 
-4. Login or Sign up for your existing account.
+4) Login or Sign up for your existing account.
 
-5. Now Enter your Delivery Address & other Details and click on Continue.
+5) Now Enter your Delivery Address & other Details and click on Continue.
 
-6. Select your convenient Payment Method and proceed to the payment.
+6) Select your convenient Payment Method and proceed to the payment.
 
-7. Now complete your transaction and place your order.
+7) Now complete your transaction and place your order.
 
-8. That’s it. You will soon get Xiaomi Redmi 4 Flipkart delivered to your doorsteps within 2-3 days. Enjoy.
+8) That’s it. You will soon get Xiaomi Redmi 4 Flipkart delivered to your doorsteps within 2-3 days. Enjoy.
 
 **Xiaomi Redmi 4 Display:-**
 
