@@ -7,7 +7,7 @@ categories: lenskart paytm
 
 <h4>Refer Lenskart & Earn Rs.500 Paytm cash</h4>
 
-1) First of all, click here to Visit the website
+1) First of all, [click here to Visit the website](http://lenskart.ref-r.com/c/i/12845/5305935)
 
 2) After that, Click on “Login” & then Signup button
 
