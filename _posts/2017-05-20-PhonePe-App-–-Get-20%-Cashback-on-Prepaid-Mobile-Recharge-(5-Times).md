@@ -7,7 +7,7 @@ categories: phonepe
 
 <h3>How to Get 20% Cashback on Prepaid Mobile Recharge at PhonePe App</h3>
 
-1) First of all, [Download PhonePe app Here](https://phone.pe/ru_just1ju43) 
+1) First of all, [Download PhonePe app Here](https://phonepe.com/ru_just1ju43) 
 
 2) Install & Open the Phone App.
 
