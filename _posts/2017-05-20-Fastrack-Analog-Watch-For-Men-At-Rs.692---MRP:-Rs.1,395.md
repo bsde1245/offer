@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Fastrack Analog Watch For Men At Rs.692 - MRP: Rs.1,395"
+title:  "BEST LOOT DEALS OF THE DAY"
 date:   2017-05-20 17:55:46 +0530
 categories: flipkart
 ---
 
-<h3>BEST LOOT DEALS OF THE DAY :</h3>
+
+
+20/05/2017
 
 **Fastrack NG3120SL01C Bare Basic Analog Watch – For Men**
 
