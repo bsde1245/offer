@@ -8,7 +8,9 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
+ul, ol, li {
+  list-style-position: inside;
+}
 
 /**
  * Basic styling
