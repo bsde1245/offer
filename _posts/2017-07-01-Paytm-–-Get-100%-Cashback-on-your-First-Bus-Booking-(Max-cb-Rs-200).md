@@ -2,7 +2,7 @@
 layout: post
 title:  "Paytm – Get 100% Cashback on your First Bus Booking (Max cb Rs 200)"
 date:   2017-07-1 10:21:46 +0530
-categories: paytm
+tags: paytm
 ---
 
 <h3>How To Get 100% Cashback on Bus Ticket Booking at Paytm</h3>

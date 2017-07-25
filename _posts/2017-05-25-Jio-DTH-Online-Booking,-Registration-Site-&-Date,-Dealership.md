@@ -2,7 +2,7 @@
 layout: post
 title:  "Jio DTH Online Booking, Registration Site & Date,Dealership"
 date:   2017-05-25 18:06:46 +0530
-categories: jio
+tags: jio
 ---
 
 Jio is again back  with some great functions and offers and I  will tell you all about it in my post Jio DTH Online Booking Registration. But this time it will be Jio DTH services. As we have to pay a lot for Tv recharge and their services. Also Set top box price is high of every company. So Jio will be having a lot cheaper price than other companies.

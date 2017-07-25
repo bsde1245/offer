@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Create A Savings Account On Paytm Payments Bank"
 date:   2017-05-20 16:41:46 +0530
-categories: paytm
+tags: paytm
 ---
 
 India’s fastest growing digital payments provider mobile app Paytm has recently launched their payments bank. Like regular bank accounts of India, users can create current & saving accounts in Paytm Payments bank. Paytm will also provide credit, debit and net banking facility if you create your account on Paytm Payments bank. In this article, we will share the complete guide on how you can create a savings account or current account on Paytm Payments bank.

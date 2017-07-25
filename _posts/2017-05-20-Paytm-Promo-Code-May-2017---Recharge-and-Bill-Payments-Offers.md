@@ -2,7 +2,7 @@
 layout: post
 title:  "Paytm Promo Code May 2017 - Recharge & Bill Payments Offers"
 date:   2017-05-20 13:10:46 +0530
-categories: paytm
+tags: paytm
 ---
 
 <h3>Get 50% Cashback on Booking Movie Tickets (Max 150)</h3>

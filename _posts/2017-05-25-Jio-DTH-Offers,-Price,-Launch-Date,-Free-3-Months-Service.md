@@ -2,7 +2,7 @@
 layout: post
 title:  "Jio DTH Offers, Price, Launch Date, Free 3 Months Service"
 date:   2017-05-25 17:59:46 +0530
-categories: jio
+tags: jio
 ---
 
 <h4>Jio DTH set top box picture leaked</h4>

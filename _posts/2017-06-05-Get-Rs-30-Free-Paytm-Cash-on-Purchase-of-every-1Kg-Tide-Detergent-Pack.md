@@ -2,7 +2,7 @@
 layout: post
 title:  "Get Rs 30 Free Paytm Cash on Purchase of every 1Kg Tide Detergent Pack"
 date:   2017-06-05 10:15:46 +0530
-categories: paytm
+tags: paytm
 ---
 
 <h4>How to Get Rs 30 Free Paytm Cash from Tide Plus Pack</h4>

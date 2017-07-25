@@ -2,7 +2,7 @@
 layout: post
 title:  "Paytm Mall – Get Flat 50% Cashback on LeD Bulbs"
 date:   2017-05-20 14:25:46 +0530
-categories: paytm
+tags: paytm
 ---
 
 <h3>How to Get Flat 50% Cashback on LeD Bulbs</h3>

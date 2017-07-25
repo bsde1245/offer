@@ -2,7 +2,7 @@
 layout: post
 title:  "BEST LOOT DEALS OF THE DAY"
 date:   2017-05-20 17:55:46 +0530
-categories: flipkart
+tags: flipkart
 ---
 
 

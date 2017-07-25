@@ -2,7 +2,7 @@
 layout: post
 title:  "JioPhone – How To Book Online, Pre Registration & Buy Online at Rs.0"
 date:   2017-07-24 17:21:46 +0530
-categories: jio
+tags: jio
 ---
 
 <h3>Jio Phone How To Book Online, Pre Registration & Buy Online</h3>

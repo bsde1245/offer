@@ -2,7 +2,7 @@
 layout: post
 title:  "PaytmMall – Get Rs 250 Cashback on Rs 800 Shopping"
 date:   2017-05-25 17:47:46 +0530
-categories: paytm
+tags: paytm
 ---
 
 <h4>How to Get Rs 250 Cashback on Rs 800 Shopping at Paytm</h4>

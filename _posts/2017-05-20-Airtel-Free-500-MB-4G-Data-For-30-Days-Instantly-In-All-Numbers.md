@@ -2,7 +2,7 @@
 layout: post
 title:  "Airtel Free 500 MB 4G Data For 30 Days Instantly In All Numbers"
 date:   2017-05-20 20:23:46 +0530
-categories: airtel
+tags: airtel
 ---
 
 <h3>How To Get Airtel Free 500 MB Internet 4G Data</h3>

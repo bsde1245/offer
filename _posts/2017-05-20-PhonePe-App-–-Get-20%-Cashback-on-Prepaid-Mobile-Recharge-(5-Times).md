@@ -2,7 +2,7 @@
 layout: post
 title:  "PhonePe App – Get 20% Cashback on Prepaid Mobile Recharge (5 Times)"
 date:   2017-05-20 14:14:46 +0530
-categories: phonepe
+tags: phonepe
 ---
 
 <h3>How to Get 20% Cashback on Prepaid Mobile Recharge at PhonePe App</h3>

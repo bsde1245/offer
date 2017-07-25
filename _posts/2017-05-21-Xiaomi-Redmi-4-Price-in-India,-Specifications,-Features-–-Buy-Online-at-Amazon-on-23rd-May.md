@@ -2,7 +2,7 @@
 layout: post
 title:  "Xiaomi Redmi 4 Price in India, Specifications, Features – Buy Online at Amazon on 23rd May"
 date:   2017-05-21 18:33:46 +0530
-categories: xiaomi
+tags: xiaomi
 ---
 
 <h4>How to Buy Xiaomi Redmi 4 Online From Flipkart, Amazon</h4>

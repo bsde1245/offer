@@ -2,7 +2,7 @@
 layout: post
 title:  "Flipkart Big 10 Sale, Its Much Bigger Get upto 80% OFF+10% via HDFC Credit Card"
 date:   2017-05-14 13:21:46 +0530
-categories: flipkart
+tags: flipkart
 ---
 
 <h3>How to avail Flipkart Big 10 Sale Offers & Deals:-</h3>

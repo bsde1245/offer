@@ -2,7 +2,7 @@
 layout: post
 title:  "Lenskart Paytm Loot offer – Earn Rs.500 Paytm Cash on referring to your friend"
 date:   2017-05-21 09:48:46 +0530
-categories: lenskart paytm
+tags: lenskart paytm
 ---
 
 <h4>Refer Lenskart & Earn Rs.500 Paytm cash</h4>

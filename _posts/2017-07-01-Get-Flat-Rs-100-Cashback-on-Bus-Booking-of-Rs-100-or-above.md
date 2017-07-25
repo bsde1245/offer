@@ -2,7 +2,7 @@
 layout: post
 title:  "Get Flat Rs 100 Cashback on Bus Booking of Rs 100 or above"
 date:   2017-07-1 09:21:46 +0530
-categories: paytm
+tags: paytm
 ---
 
 <h3>How to Get Rs 100 Cashback on Bus Ticket Booking at Paytm</h3>

@@ -2,7 +2,7 @@
 layout: post
 title:  "FreeCharge – Get Rs 25 Cashback on Rs 25 Mobile Recharge (account Specific)"
 date:   2017-06-05 09:24:46 +0530
-categories: freecharge
+tags: freecharge
 ---
 
 <h4>How to Get Rs 25 Cashback on Rs 25 Recharge at FreeCharge</h4>

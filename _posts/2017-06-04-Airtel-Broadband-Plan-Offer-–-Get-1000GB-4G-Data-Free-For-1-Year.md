@@ -2,7 +2,7 @@
 layout: post
 title:  "Airtel Broadband Plan Offer – Get 1000GB 4G Data Free For 1 Year"
 date:   2017-06-04 17:57:46 +0530
-categories: airtel
+tags: airtel
 ---
 
 <h4>How to Apply</h4>

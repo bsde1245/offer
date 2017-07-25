@@ -2,7 +2,7 @@
 layout: post
 title:  "SBI Buddy App-₹25/Refer Direct In Bank Account"
 date:   2017-07-24 16:21:46 +0530
-categories: sbi
+tags: sbi
 ---
 
 <h3>How To Refer & Earn Cash In State Bank Buddy App</h3>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Grofers – Get Flat 50% off on Lots of items"
 date:   2017-05-21 09:05:46 +0530
-categories: grofers
+tags: grofers
 ---
 
 <h4>How to Get 50% Off on Grofers</h4>
